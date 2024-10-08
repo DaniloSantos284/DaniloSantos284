@@ -1,4 +1,6 @@
-<h1 align="left">Hello World!!</h1>
+<br clear="both">
+
+<h1 align="left">Hello! Eu sou o Danilo Santos</h1>
 
 ###
 
@@ -16,7 +18,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
