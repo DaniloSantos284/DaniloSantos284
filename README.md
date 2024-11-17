@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">-Atualmente trabalho com farmácia hospitalar, migrando carreira para tecnologia<br>-Estudando Lógica de programação em três instituições para fortalecer a base, inglês e fazendo graduação em A.D.S.</p>
+<p align="left">-Atualmente trabalho com farmácia hospitalar, migrando carreira para tecnologia<br>-Fiz Lógica de programação em três instituições diferentes, ainda continuo revisando para fortalecer bastante a base, já estou aplicando o aprendizado criando página de ecommerce, página de login para exercitar e trabalhar tanto na parte de front como parte de back, organização de arquivo, entre outros. Estou em constante aprendizado em inglês, analise de dados com power bi e fazendo graduação em A.D.S.</p>
 
 ###
 
