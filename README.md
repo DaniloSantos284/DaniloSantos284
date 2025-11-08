@@ -12,7 +12,11 @@
 
 ###
 
-<p align="left">-Atualmente trabalho com farmácia hospitalar, migrando carreira para tecnologia<br>-Fiz Lógica de programação em três instituições diferentes, ainda continuo revisando para fortalecer bastante a base, já estou aplicando o aprendizado criando página de ecommerce, página de login para exercitar e trabalhar tanto na parte de front como parte de back, organização de arquivo, entre outros. Estou em constante aprendizado em inglês, analise de dados com power bi e fazendo graduação em A.D.S.</p>
+<h4 align="left">Sou um profissional em transição consolidada para a área de tecnologia, com experiência prática em desenvolvimento front-end, mobile e suporte técnico. Atuo no desenvolvimento de interfaces modernas e responsivas, criação de funcionalidades dinâmicas e integração entre software e hardware em projetos voltados à inovação e sistemas embarcados.
+
+Minha trajetória envolve desde o atendimento técnico e documentação de processos, até a implementação de soluções web e mobile, utilizando TypeScript, React, React Native (Expo), Next.js, Tailwind CSS e Java. Essa combinação de experiências me proporcionou uma visão completa sobre o ciclo de desenvolvimento, usabilidade e manutenção de sistemas.
+
+Sou graduando em Análise e Desenvolvimento de Sistemas e sigo me aprimorando continuamente em lógica de programação, inglês e análise de dados com Power BI, aplicando os conhecimentos em projetos pessoais, colaborativos e profissionais reais. Tenho como foco criar soluções eficientes, acessíveis e bem estruturadas, alinhadas às boas práticas de desenvolvimento e à evolução constante no campo da tecnologia.</h4>
 
 ###
 
