@@ -1,4 +1,4 @@
-# 👨🏾‍💻 **`Hello! I'am the Danilo Santos`**
+# 👨🏾‍💻 **`Olá! Eu sou o Danilo Santos`**
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
@@ -17,7 +17,7 @@ Estou em busca de novos desafios como Desenvolvedor Júnior, onde possa aplicar 
 
 ---
 
-<div style="height: 30px;"></div>
+<br/>
 
 <div align="center">
   <img width="12" />
@@ -50,13 +50,13 @@ Estou em busca de novos desafios como Desenvolvedor Júnior, onde possa aplicar 
   <img src="https://cdn-icons-png.flaticon.com/256/1183/1183618.png" height="40">
 </div>
 
-<div style="height: 30px;"></div>
+<br/>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DaniloSantos284&theme=modern-lilac&border_radius=10&mode=weekly" style="margin-right: 13px;" alt="GitHub Streak" /></a>
-  <img src="https://streak-stats.demolab.com?user=DaniloSantos284&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" style="padding-bottom: 22px" />
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DaniloSantos284&theme=modern-lilac&border_radius=10&mode=weekly" width="45%" style="margin-right: 13px;" alt="GitHub Streak" /></a>
+  <img src="https://streak-stats.demolab.com?user=DaniloSantos284&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" width="45%" height="185" alt="streak graph"/>
 </div>
-
-<div align="center" style="margin-top: 20px">
+<br/>
+<div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DaniloSantos284&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
