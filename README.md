@@ -6,7 +6,7 @@
 </p>
 
 **`Fullstack Developer`**
-<h4 align="left">Atualmente atuo como Estagiário de Pesquisa e Desenvolvimento e Desenvolvedor Front-end, participando de todo o ciclo de entrega de software. No dia a dia, trabalho com a integração entre Front-end e Back-end por meio de APIs REST, consumindo dados em JSON para criar interfaces responsivas e performáticas com React Native e TypeScript, expo, sql, figma.
+<h4 align="left">Atualmente atuo como Estagiário de Pesquisa e Desenvolvimento e Desenvolvedor Front-end, participando de todo o ciclo de entrega de software. No dia a dia, trabalho com a integração entre Front-end e Back-end por meio de APIs REST, consumindo dados em JSON para criar interfaces responsivas e performáticas com React Native e TypeScript, expo, sql, figma, entendo sobre RAG, MCP, agentes autônomos, fine-tuning, prompt engineering avançado ou frameworks de orquestração (ex: LangChain, LlamaIndex).
 
 Também desenvolvo projetos Full Stack, utilizando Node.js, MySQL, typescript, java e ou C# sempre buscando aplicar boas práticas como arquitetura limpa, tipagem forte e conteinerização com Docker, pensando desde cedo em escalabilidade e organização do código.
 
@@ -53,7 +53,7 @@ Estou em busca de novos desafios como Desenvolvedor, onde possa aplicar minhas h
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniloSantos284&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=DaniloSantos284&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="175" alt="streak graph"/>
   <img src="https://streak-stats.demolab.com?user=DaniloSantos284&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" width="45%" height="185" alt="streak graph"/>
 </div>
 <br/>
