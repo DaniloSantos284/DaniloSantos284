@@ -41,22 +41,12 @@ Estou em busca de novos desafios como Desenvolvedor, onde possa aplicar minhas h
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-postgresql-icon-svg-download-png-1175120.png" height="40">
   <img width="12" />
-  <img src="https://icon-icons.com/download-file?file=https%3A%2F%2Fimages.icon-icons.com%2F2415%2FPNG%2F256%2Fdocker_plain_wordmark_logo_icon_146555.png&id=146555&pack_or_individual=pack" height="40">
+  <img src="https://www.vectorlogo.zone/logos/expoio/expoio-ar21.svg" height="40">
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-kubernetes-icon-svg-download-png-283489.png" height="40">
   <img width="12" />
-  <img src="https://cdn.iconscout.com/icon/free/png-256/free-trello-icon-svg-download-png-1175081.png" height="40">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40">
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/256/1183/1183618.png" height="40">
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DaniloSantos284&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" height="175" alt="streak graph"/>
-  <img src="https://streak-stats.demolab.com?user=DaniloSantos284&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" width="45%" height="185" alt="streak graph"/>
-</div>
-<br/>
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DaniloSantos284&radius=16&theme=redical&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
