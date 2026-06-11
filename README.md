@@ -33,8 +33,6 @@ Estou em busca de novos desafios como Desenvolvedor, onde possa aplicar minhas h
   <img width="12" />
   <img src="https://cdn-icons-png.flaticon.com/256/5968/5968381.png" height="40" />
   <img width="12" />
-  <img src="https://cdn-icons-png.flaticon.com/256/1183/1183723.png" height="40">
-  <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-php-logo-icon-svg-download-png-2284918.png" height="40">
   <img width="12" />
   <img src="https://cdn.iconscout.com/icon/free/png-256/free-mysql-logo-icon-svg-download-png-2945040.png" height="40">
